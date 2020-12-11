@@ -4,6 +4,7 @@
 *Người dùng cũng có thể chia sẻ hình ảnh, công thức của bản thân.
 ###Homepage
 ![alt text](./images/screenshot1.png "title")
+
 ![alt text](./images/screenshot2.png "title")
 ```html
 <!DOCTYPE html>
